@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/projects/tex_programming/lab_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -ID:/projects/tex_programming/lab_5/build/lab_5_autogen/include -ID:/projects/tex_programming/lab_5/include -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -g -std=gnu++17 -o CMakeFiles\\lab_5.dir\\lab_5_autogen\\mocs_compilation.cpp.obj -c D:\\projects\\tex_programming\\lab_5\\build\\lab_5_autogen\\mocs_compilation.cpp",
+  "file": "D:\\projects\\tex_programming\\lab_5\\build\\lab_5_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\lab_5.dir\\lab_5_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/projects/tex_programming/lab_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -ID:/projects/tex_programming/lab_5/build/lab_5_autogen/include -ID:/projects/tex_programming/lab_5/include -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -g -std=gnu++17 -o CMakeFiles\\lab_5.dir\\src\\main.cpp.obj -c D:\\projects\\tex_programming\\lab_5\\src\\main.cpp",
+  "file": "D:\\projects\\tex_programming\\lab_5\\src\\main.cpp",
+  "output": "CMakeFiles\\lab_5.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "D:/projects/tex_programming/lab_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -ID:/projects/tex_programming/lab_5/build/lab_5_autogen/include -ID:/projects/tex_programming/lab_5/include -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -g -std=gnu++17 -o CMakeFiles\\lab_5.dir\\src\\mainwindow.cpp.obj -c D:\\projects\\tex_programming\\lab_5\\src\\mainwindow.cpp",
+  "file": "D:\\projects\\tex_programming\\lab_5\\src\\mainwindow.cpp",
+  "output": "CMakeFiles\\lab_5.dir\\src\\mainwindow.cpp.obj"
+}
+]

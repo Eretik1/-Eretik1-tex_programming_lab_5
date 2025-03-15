@@ -1,0 +1,8 @@
+MyLibrary_autogen/timestamp: \
+	D:/projects/tex_programming/lab_3/CMakeLists.txt \
+	D:/projects/tex_programming/lab_3/src/electricDrill.cpp \
+	D:/projects/tex_programming/lab_3/src/electricMotor.cpp \
+	D:/projects/tex_programming/lab_3/src/electrodevice.cpp \
+	D:/projects/tex_programming/lab_3/src/heatingElement.cpp \
+	D:/projects/tex_programming/lab_3/src/mylibrary.cpp \
+	C:/msys64/mingw64/bin/cmake.exe

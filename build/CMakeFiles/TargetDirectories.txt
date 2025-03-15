@@ -1,0 +1,5 @@
+D:/projects/tex_programming/lab_5/build/CMakeFiles/lab_5.dir
+D:/projects/tex_programming/lab_5/build/CMakeFiles/edit_cache.dir
+D:/projects/tex_programming/lab_5/build/CMakeFiles/rebuild_cache.dir
+D:/projects/tex_programming/lab_5/build/CMakeFiles/lab_5_autogen_timestamp_deps.dir
+D:/projects/tex_programming/lab_5/build/CMakeFiles/lab_5_autogen.dir
