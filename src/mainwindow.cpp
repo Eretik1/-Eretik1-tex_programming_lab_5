@@ -174,12 +174,12 @@ void MainWindow::editDevice(QListWidgetItem *item)
 void MainWindow::onDeleteDeviceClicked()
 {
     QListWidgetItem *item = devicesList->currentItem();
-    if (item) {
+    if (1) { 
         QMessageBox::StandardButton reply;
         reply = QMessageBox::question(this, "Удалить устройство", "Вы уверены, что хотите удалить устройство?", QMessageBox::Yes | QMessageBox::No);
         if (reply == QMessageBox::Yes) {
             int index = devicesList->row(item);
-            if (index >= 0 && index < devices.size()) {
+            if (index < devices.size()) {//index >= 0 &&
                 devices.removeAt(index);  
             }
             delete item;

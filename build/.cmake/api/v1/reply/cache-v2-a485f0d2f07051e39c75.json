@@ -6247,7 +6247,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "Vulkan_GLSLANG_VALIDATOR_EXECUTABLE-NOTFOUND"
+			"value" : "C:/msys64/mingw64/bin/glslangValidator.exe"
 		},
 		{
 			"name" : "Vulkan_GLSLC_EXECUTABLE",
@@ -6263,7 +6263,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "Vulkan_GLSLC_EXECUTABLE-NOTFOUND"
+			"value" : "C:/msys64/mingw64/bin/glslc.exe"
 		},
 		{
 			"name" : "Vulkan_INCLUDE_DIR",
